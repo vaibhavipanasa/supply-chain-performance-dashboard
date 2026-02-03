@@ -1,35 +1,38 @@
-# Supply Chain Performance Dashboard
+# Supply Chain Performance Dashboard (Excel)
 
 ## Project Overview
-Designed an interactive supply chain analytics dashboard to track delivery performance,
-exception trends, and capacity utilization across logistics operations.
+This project demonstrates an Excel-based supply chain dashboard built to analyze
+delivery performance, capacity utilization, and operational efficiency.
 
-The dashboard enables faster operational decision-making by consolidating data from
-multiple sources into a single, centralized view.
+The dashboard presents key KPIs and trends to support data-driven decision-making.
 
-## Key Metrics Tracked
-- On-Time Delivery (OTD %)
-- Delivery Exceptions & Delay Trends
-- Capacity Utilization
-- Backlog Volume
-- Throughput Metrics
+---
 
-## Tools & Technologies
-- Power BI / Tableau (use what you actually used)
-- SQL
+## Key Metrics
+- On-Time Delivery %
+- Exception Rate %
+- Average Delivery Days
+
+---
+
+## Tools Used
 - Microsoft Excel
-- Data Cleaning & Transformation
+- Pivot Tables
+- Charts & KPI Dashboards
+- CSV Data Analysis
 
-## Data
-- Simulated / anonymized logistics data
-- Multiple data sources combined for reporting and analysis
+---
 
-## Key Outcomes
-- Reduced decision-making turnaround time by ~30%
-- Improved visibility into operational bottlenecks
-- Enabled proactive issue identification
+## Dashboard Screenshots
 
-## Screenshots
-_Add dashboard screenshots here_
-# supply-chain-performance-dashboard
-Supply chain analytics dashboard tracking delivery performance and capacity utilization
+### KPI Dashboard
+![Excel Dashboard](excel_dashboard.png)
+
+### Delivery & Capacity Analysis
+![Analysis Charts](analysis_charts.png)
+
+---
+
+## Notes
+This project uses simulated data to reflect real-world supply chain scenarios
+while maintaining data confidentiality.
